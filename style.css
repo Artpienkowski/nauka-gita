@@ -24,3 +24,7 @@ body {
     align-items: flex-start;
     text-align: left;
 }
+
+.content h2 {
+    margin-bottom: 1px;
+}
